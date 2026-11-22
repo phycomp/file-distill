@@ -55,7 +55,7 @@ Stop for user confirmation whenever the source appears unclear, possibly wrong, 
    - Remove filler, repeated phrasing, chatty transitions, raw brainstorming noise, and one-off execution details.
    - Preserve useful links, citations, commands, examples, and code snippets when they support future reuse.
    - Use clear Markdown headings and concise bullets. Prefer Chinese output if the source or user request is Chinese; otherwise match the source language.
-   - Add a short "来源" or "Source" line pointing to the original document path.
+   - Add a short "來源" or "Source" line pointing to the original document path.
    - If evidence is missing, write `result needs evidence` rather than inventing metrics.
    - For project assets, include role, constraints, contribution, decisions, results, public-safe expression, and next asset step.
    - For interview assets, include Situation, Task, Action, Result, follow-up details, and sanitization checks.
@@ -120,17 +120,17 @@ tags:
 
 # <Concise Knowledge Title>
 
-来源：<original path>
+來源：<original path>
 
 ## 核心观点
 
 - ...
 
-## 可复用方法
+## 可複用方法
 
 - ...
 
-## 关键细节
+## 關鍵細節
 
 - ...
 ```
